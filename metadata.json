@@ -1,0 +1,5 @@
+{
+  "name": "EasyBook - 商家與顧客預約系統",
+  "description": "一個為商家（如美甲、美髮）與顧客設計的雙向預約系統。商家可管理服務項目與時段，顧客可輕鬆瀏覽並預約。",
+  "requestFramePermissions": []
+}
